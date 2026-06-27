@@ -30,4 +30,8 @@ AURA: A productivity tool that secured a win at the "Tech Thesis" event.
 Smart IoT Systems: Developing hardware automation, including a live Smart IoT Water Level Monitoring System.
 
 🤝 Let's Connect
+
+https://www.linkedin.com/in/thenappan-t/
+https://thenappant-portfolio.vercel.app/
+
 I collaborate best with original thinkers who have clarity of vision and aren't afraid of calculated risks. I communicate natively in Tamil, with professional proficiency in English and conversational Hindi. If you are focused on building systems and creating wealth without the excuses, let's build something impactful.
