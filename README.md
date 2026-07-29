@@ -23,6 +23,8 @@
 </a>
 </p>
 
+<img width="500" height="391" alt="Attack On Titan Eren Jaeger GIF" src="https://github.com/user-attachments/assets/0c6c9057-38e0-4a35-a4b4-ed9fdf759390" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=6EE7F7&center=true&vCenter=true&width=560&lines=CS+Engineering+%40+Sathyabama+%7C+GPA+8.65%2F10;AWS+Student+Builder+Group+Leader+%7C+Chennai;Shipped+83%25+efficiency+gain+%40+BPCL;Cloud+%7C+AI+%7C+Full-Stack+Developer;8PM+to+1AM+%E2%80%94+deep+work%2C+no+distractions." alt="Typing SVG" />
 
 <br/>
@@ -164,7 +166,8 @@ Organized **AWS Community Day Chennai** — one of the largest AWS student-led e
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterZ1311&bg_color=0D1117&color=6EE7F7&line=A855F7&point=6EE7F7&area=true&hide_border=true&radius=6&custom_title=Contribution+Activity" width="95%" />
 
 </div>
-
+<!-- GitHub contribution snake -->
+![Contribution Snake](./.github/contribution-snake.svg)
 ---
 
 ## Let's Connect
