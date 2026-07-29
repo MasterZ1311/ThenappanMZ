@@ -166,8 +166,7 @@ Organized **AWS Community Day Chennai** — one of the largest AWS student-led e
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MasterZ1311&bg_color=0D1117&color=6EE7F7&line=A855F7&point=6EE7F7&area=true&hide_border=true&radius=6&custom_title=Contribution+Activity" width="95%" />
 
 </div>
-<!-- GitHub contribution snake -->
-![Contribution Snake](./.github/contribution-snake.svg)
+
 ---
 
 ## Let's Connect
