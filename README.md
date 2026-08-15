@@ -37,11 +37,11 @@
 
 ## About
 
-I'm a **third-year Computer Science Engineering student** at Sathyabama Institute of Science and Technology (GPA: **8.65 / 10.0**), based in Chennai, India. I operate where **cloud infrastructure, AI, and product thinking** converge — building systems designed for real-world impact, not just academic credit.
+I'm a **third-year Computer Science Engineering student** at Sathyabama Institute of Science and Technology (GPA: **8.65 / 10.0**), based in Chennai, India. I operate where **cloud infrastructure, AI, and product thinking** converge - building systems designed for real-world impact, not just academic credit.
 
-I've shipped automation that saved 50 minutes of daily processing time at a PSU, led AWS community events for 500+ engineers, and managed product roadmaps at a funded startup — all as a full-time student.
+I've shipped automation that saved 50 minutes of daily processing time at a PSU, led AWS community events for 500+ engineers, and managed product roadmaps at a funded startup - all as a full-time student.
 
-> *"I favour deep, calculated thinking over rushed speed — driven by the vision of my future self."*
+> *"I favour deep, calculated thinking over rushed speed - driven by the vision of my future self."*
 
 ---
 
@@ -113,21 +113,21 @@ Working Hours        →  8 PM – 1 AM | Deep work, no distractions
 **Software Development Intern — Bharat Petroleum Corporation Limited (BPCL)**
 `May 2024 – August 2024 · Chennai`
 
-India's 2nd-largest oil and gas PSU. Engineered a Python automation system that cut daily processing time from **60 minutes to 10 minutes — 83% improvement** — while eliminating manual calculation errors across automated financial workflows. The system was adopted for regular operational use.
+India's 2nd-largest oil and gas PSU. Engineered a Python automation system that cut daily processing time from **60 minutes to 10 minutes - 83% improvement** - while eliminating manual calculation errors across automated financial workflows. The system was adopted for regular operational use.
 
 ---
 
 **Project Manager — ROBOHATCH**
 `January 2026 – June 2026 · Chennai`
 
-India's first 3D Chocolate Printing startup. Owned cross-team coordination, sprint planning, and technical roadmap management — enabling faster product development cycles and tighter deliverable prioritization across engineering and design teams.
+India's first 3D Chocolate Printing startup. Owned cross-team coordination, sprint planning, and technical roadmap management - enabling faster product development cycles and tighter deliverable prioritization across engineering and design teams.
 
 ---
 
 **AWS Student Builder Group Leader — AWS SBGL**
 `May 2026 – Present`
 
-Organized **AWS Community Day Chennai** — one of the largest AWS student-led events in South India — with **500+ attendees**. Actively growing collaboration between campus communities and the AWS ecosystem.
+Organized **AWS Community Day Chennai** - one of the largest AWS student-led events in South India - with **500+ attendees**. Actively growing collaboration between campus communities and the AWS ecosystem.
 
 ---
 
@@ -140,7 +140,7 @@ Organized **AWS Community Day Chennai** — one of the largest AWS student-led e
 | **Intra-College Coding Competition Winner** | 2 consecutive wins |
 | **Tech Thesis Event Winner (AURA)** | Intra-college innovation track |
 | **CADD Certified Python Professional** | Industry-recognized certification |
-| **Best National Performer — Go4Guru Olympiad** | National academic competition |
+| **Best National Performer - Go4Guru Olympiad** | National academic competition |
 | **State-Level Karate Champion** | Precision, discipline, high performance |
 | **National Artist Recognition** | Creative intelligence across domains |
 
